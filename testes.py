@@ -2,7 +2,7 @@
 print "Teste com Git"
 
 def function_one(self):
-    print "funcao 1"
+    print "Hellow world"
 
 def function_x(self):
     print "Funcao X"

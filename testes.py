@@ -6,3 +6,8 @@ def function_one(self):
 
 def function_x(self):
     print "Funcao X"
+
+
+def victor_funcao(self):
+    for i in rang (0,10):
+        print(i)

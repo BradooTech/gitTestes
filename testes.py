@@ -6,3 +6,4 @@ def function_one(self):
 
 def function_x(self):
     print "Funcao X"
+    print "Gabriel Vai buscar cafeh pra mim"
